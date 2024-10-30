@@ -100,19 +100,19 @@ TextureImporter:
       name: buttons_0
       rect:
         serializedVersion: 2
-        x: 7177
-        y: 5249
-        width: 2894
-        height: 1980
-      alignment: 9
+        x: 931
+        y: 693
+        width: 336
+        height: 246
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2dbd9c8addb72ab48be13bdd695c5e34
-      internalID: 1198581121
+      spriteID: 13867a04ca6e2e942a881704f6ff5190
+      internalID: -99258148
       vertices: []
       indices: 
       edges: []
@@ -121,19 +121,19 @@ TextureImporter:
       name: buttons_1
       rect:
         serializedVersion: 2
-        x: 6339
-        y: 2736
-        width: 4333
-        height: 2210
-      alignment: 9
+        x: 805
+        y: 400
+        width: 549
+        height: 278
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 37908d442db4bf741bf8ff0d50a4b9a9
-      internalID: 2061451061
+      spriteID: 49fd7263fb64315499e16a6cba11b4a1
+      internalID: -688806395
       vertices: []
       indices: 
       edges: []
@@ -142,19 +142,19 @@ TextureImporter:
       name: buttons_2
       rect:
         serializedVersion: 2
-        x: 5222
-        y: 79
-        width: 5720
-        height: 2606
-      alignment: 9
+        x: 706
+        y: 31
+        width: 673
+        height: 322
+      alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d9d019551d775ab40bf0fba1b5a9eb8a
-      internalID: 660846723
+      spriteID: e7d1a539682f8524db0f2de8f3f198cb
+      internalID: -1807803258
       vertices: []
       indices: 
       edges: []
@@ -170,9 +170,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      buttons_0: 1198581121
-      buttons_1: 2061451061
-      buttons_2: 660846723
+      buttons_0: -99258148
+      buttons_1: -688806395
+      buttons_2: -1807803258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
