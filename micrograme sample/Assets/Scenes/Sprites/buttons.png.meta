@@ -100,12 +100,12 @@ TextureImporter:
       name: buttons_0
       rect:
         serializedVersion: 2
-        x: 931
+        x: 881
         y: 693
-        width: 336
-        height: 246
+        width: 441
+        height: 247
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -121,12 +121,12 @@ TextureImporter:
       name: buttons_1
       rect:
         serializedVersion: 2
-        x: 805
-        y: 400
-        width: 549
-        height: 278
+        x: 751
+        y: 374
+        width: 640
+        height: 308
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -142,12 +142,12 @@ TextureImporter:
       name: buttons_2
       rect:
         serializedVersion: 2
-        x: 706
-        y: 31
-        width: 673
-        height: 322
+        x: 679
+        y: 24
+        width: 729
+        height: 323
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
